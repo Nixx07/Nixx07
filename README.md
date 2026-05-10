@@ -1,5 +1,5 @@
-## Bem-vindo(a) ao perfil de Nixx07 😁
-
+<h1>Olá!</h1>
+<p>Sou apaixonado por tecnologia desde os 7 anos me dedicando a desenvolvimento de jogos mobile na linguagem catrobat do pocket code o que me levou à me dedicar na área do desenvolvimento web. Atualmente estou cursando desenvolvimento de sistemas com dedicação no desenvolvimento front-end. Tenho certificado na Instituição de Ensino Danki Code em lógica de programação e Python</p>
  <div>
    <a href="https://github.com/Nixx07">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nixx07&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
